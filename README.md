@@ -16,3 +16,5 @@ Output
 _© 2022 XYZ, Inc._
 
 Fixed typo in documentation
+
+Fixed typo in the  documentation
